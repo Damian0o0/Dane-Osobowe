@@ -1,0 +1,16 @@
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\bin\Debug\netcoreapp3.1\daneosobowe.exe
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\bin\Debug\netcoreapp3.1\daneosobowe.deps.json
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\bin\Debug\netcoreapp3.1\daneosobowe.runtimeconfig.json
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\bin\Debug\netcoreapp3.1\daneosobowe.runtimeconfig.dev.json
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\bin\Debug\netcoreapp3.1\daneosobowe.dll
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\bin\Debug\netcoreapp3.1\daneosobowe.pdb
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.csproj.AssemblyReference.cache
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.Form1.resources
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.csproj.GenerateResource.cache
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.AssemblyInfoInputs.cache
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.AssemblyInfo.cs
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.csproj.CoreCompileInputs.cache
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.dll
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.pdb
+C:\Users\HARDPC\Desktop\Nowy folder (3)\daneosobowe\daneosobowe\obj\Debug\netcoreapp3.1\daneosobowe.genruntimeconfig.cache
